@@ -1,0 +1,7 @@
+[Bb]in/
+[Oo]bj/
+*.nupkg
+[Pp]ackages/
+/build/
+*.log
+appsettings.Development.json
